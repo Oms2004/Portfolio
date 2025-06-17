@@ -201,7 +201,7 @@ export const SkillsInfo = [
     id: 0,
     img:focl,
     role: "Student Volunteer",
-    company: " NGO: Friends Of Children (FOC)",
+    company: " NGO: Friends Of Children (FOC),Pune",
     date: "Jan 2023 - Present", 
     desc: "Actively contributed to empowering underprivileged students by supporting educational and social initiatives. Engaged in community outreach programs like tree plantations, old age home visits, and career guidance sessions. Personally benefited from FOC’s educational assistance, fostering a deep commitment to giving back.",
     skills: [
