@@ -4,7 +4,7 @@ import About from "./components/About/About";
 import Skills from "./components/Skills/Skills";
 import Projects from "./components/Projects/Projects";
 import Education from "./components/Education/Education";
-import Volunteering from "./components/volunteering/Volunteering";
+import Volunteering from "./components/Volunteering/Volunteering";
 import Contact from "./components/Contact/Contact";
 import Footer from "./components/Footer/Footer";
 import BlurBlob from "./components/BlurBlob";
