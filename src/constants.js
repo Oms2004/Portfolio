@@ -109,7 +109,7 @@ export const SkillsInfo = [
       img: gcoea,
       school: "Government College Of Engineering , Amravati",
       date: "Nov 2022 - May 2026",
-      grade: "8.66 GPA",
+      grade: "8.74 GPA",
       desc: "I pursuing my Bachelor's degree in Information Technology (IT) from Government College Of Engineering , Amravati. Throughout my studies, I was immersed in a variety of subjects that deepened my understanding of computing and technology. From exploring Data Structures and Algorithms to diving into Web Development and Database Management Systems, I gained practical insights into the world of software development. My time at BSA College allowed me to work on projects that applied theoretical concepts to real-world problems.",
       degree: "Bachelor of Technology - B.Tech (Information Technology)",
     },
